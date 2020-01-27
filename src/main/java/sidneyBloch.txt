@@ -1,0 +1,16 @@
+This project was tricky. The programming itself wasn't a big issue. 
+Our team was able to work through a few ways of completing the task. 
+The trouble arose out of our team dynamic. As the leader I spent too
+much time worrying about where our new team member, Christopher McMahon
+was. That worry made me indisicive and set us behind to see if the new team
+member would show up. I tasked myself with writing the Person class so I could focus on
+understanding how our team members interacted. 
+
+In terms of the Person object, I did now do much in terms of optimizing. The
+only change I made was to add a child to each parent when the parent is assigned. 
+I also peer reviewed code so our individually assigned methods worked together. 
+Additionally, I full commented the code.
+
+Over all, I appreciate the drive for cooperation between team members as well as the drive to 
+understand eachothers work.
+

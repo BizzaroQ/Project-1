@@ -1,0 +1,12 @@
+My team project parts are treeMaker, getPerson, and addRelatives. 
+TreeMaker method constructs an ArrayList of family relationship 
+from the second portion of the file, “tudor.dat”. ArrayList is 
+using for-each loop to set every three persons in file as a family 
+relationship and set first people is the child in their family, 
+second people be the mother of their family and last one is the 
+father. And calling the addRelatives method in the end of the loop. 
+By calling the addRelatives method, the system can find the parent 
+relationship to the person who is called, help program to find the 
+children for the name called. GetPerson method returns the person’s
+name when system find the name called, otherwise return a new Person 
+instantiated with name. 
